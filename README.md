@@ -1,4 +1,4 @@
-# Nation
+# Nation OS
 An Operating System built from scratch.
 
 
